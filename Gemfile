@@ -70,3 +70,6 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+
+# Adds bootstrap for front-end development
+gem 'bootstrap', '~> 5.2.3'
